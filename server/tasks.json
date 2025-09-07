@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "Configurare repository proiect",
+    "status": "in progress",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Instalare dependințe",
+    "status": "in progress",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "title": "Configurare TypeScript",
+    "status": "in progress",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Creare schema bazei de date",
+    "status": "to do",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Implementare pagina de autentificare",
+    "status": "to do",
+    "completed": false
+  },
+  {
+    "id": 6,
+    "title": "Configurare rutare Angular",
+    "status": "to do",
+    "completed": false
+  },
+  {
+    "id": 7,
+    "title": "Creare interfață dashboard",
+    "status": "to do",
+    "completed": false
+  },
+  {
+    "id": 8,
+    "title": "Integrare REST API",
+    "status": "to do",
+    "completed": false
+  },
+  {
+    "id": 9,
+    "title": "Validare formulare",
+    "status": "to do",
+    "completed": false
+  },
+  {
+    "id": 10,
+    "title": "Scriere teste unitare",
+    "status": "to do",
+    "completed": false
+  },
+  {
+    "id": 11,
+    "title": "Implementare funcționalitate logout",
+    "status": "in progress",
+    "completed": false
+  },
+  {
+    "id": 12,
+    "title": "Configurare pipeline CI/CD",
+    "status": "in progress",
+    "completed": false
+  },
+  {
+    "id": 13,
+    "title": "Adăugare formular creare task",
+    "status": "in progress",
+    "completed": false
+  },
+  {
+    "id": 14,
+    "title": "Implementare ștergere task",
+    "status": "in progress",
+    "completed": false
+  },
+  {
+    "id": 15,
+    "title": "Implementare completare task",
+    "status": "in progress",
+    "completed": false
+  },
+  {
+    "id": 16,
+    "title": "Actualizare status task",
+    "status": "in progress",
+    "completed": false
+  },
+  {
+    "id": 17,
+    "title": "Adăugare funcționalitate căutare/filtrare",
+    "status": "in progress",
+    "completed": false
+  },
+  {
+    "id": 18,
+    "title": "Stilizare lista de task-uri",
+    "status": "in progress",
+    "completed": false
+  },
+  {
+    "id": 19,
+    "title": "Adăugare responsive design",
+    "status": "in progress",
+    "completed": false
+  },
+  {
+    "id": 20,
+    "title": "Configurare server backend",
+    "status": "in progress",
+    "completed": false
+  },
+  {
+    "id": 21,
+    "title": "Scriere documentație API",
+    "status": "done",
+    "completed": true,
+    "time": "60",
+    "date": "2025-09-07"
+  },
+  {
+    "id": 22,
+    "title": "Resetare parolă utilizatori",
+    "status": "done",
+    "completed": true,
+    "time": "45",
+    "date": "2025-09-06"
+  },
+  {
+    "id": 23,
+    "title": "Scriere teste de integrare",
+    "status": "done",
+    "completed": true,
+    "time": "90",
+    "date": "2025-09-05"
+  },
+  {
+    "id": 24,
+    "title": "Corectare bug update task",
+    "status": "done",
+    "completed": true,
+    "time": "30",
+    "date": "2025-09-04"
+  },
+  {
+    "id": 25,
+    "title": "Optimizare randare task-uri",
+    "status": "done",
+    "completed": true,
+    "time": "50",
+    "date": "2025-09-03"
+  },
+  {
+    "id": 26,
+    "title": "Adăugare paginare task-uri",
+    "status": "done",
+    "completed": true,
+    "time": "40",
+    "date": "2025-09-02"
+  },
+  {
+    "id": 27,
+    "title": "Adăugare notificări",
+    "status": "done",
+    "completed": true,
+    "time": "35",
+    "date": "2025-09-01"
+  },
+  {
+    "id": 28,
+    "title": "Configurare serviciu email",
+    "status": "done",
+    "completed": true,
+    "time": "55",
+    "date": "2025-08-31"
+  },
+  {
+    "id": 29,
+    "title": "Adăugare modul dark mode",
+    "status": "done",
+    "completed": true,
+    "time": "25",
+    "date": "2025-08-30"
+  },
+  {
+    "id": 30,
+    "title": "Deploy în producție",
+    "status": "done",
+    "completed": true,
+    "time": "120",
+    "date": "2025-08-29"
+  }
+]
